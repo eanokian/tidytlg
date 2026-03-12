@@ -1,5 +1,7 @@
 # tidytlg 0.11.0.9000
 
+- `gentlg()` argument wcol allows now for vectorized colwidths.
+
 # tidytlg 0.11.0
 
 - Fixed RTF landscape tag (#54).
