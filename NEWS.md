@@ -1,6 +1,6 @@
 # tidytlg 0.11.0.9000
 
-- `gentlg()` argument wcol allows now for vectorized colwidths.
+- `gentlg()` argument `wcol` now allows for a list of column width vectors when `huxme` is a list of tables.
 
 # tidytlg 0.11.0
 
